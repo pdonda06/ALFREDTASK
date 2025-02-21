@@ -122,5 +122,5 @@ flashcard-app/
 5. Submit a pull request
 
 ## Author
-Priyanshu Galani  
-[GitHub](https://github.com/priyanshu6091)
+Prince Donda  
+[GitHub](https://github.com/pdonda06)
